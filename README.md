@@ -59,6 +59,7 @@ Each chapter folder contains:
 
 - 💬 ServiceNow dev community Discord: [discord.snc.guru](https://discord.snc.guru)
 - 🌐 ServiceNow community Telegram: [telegram.snc.guru](https://telegram.snc.guru)
+- 🎙️ STFUAI Podcasts Discord: [discord.stfuai.com](https://discord.stfuai.com)
 
 ## Copyright
 
